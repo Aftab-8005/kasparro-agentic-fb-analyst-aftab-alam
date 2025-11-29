@@ -14,3 +14,4 @@ Built according to Kasparro’s official **Applied AI Engineer** evaluation rubr
 ```bash
 python -m venv .venv
 .venv\Scripts\activate   # Windows
+# Self-Review Branch
