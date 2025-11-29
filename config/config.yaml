@@ -1,0 +1,31 @@
+python: "3.10"
+random_seed: 42
+
+data:
+  csv_path: "data/synthetic_fb_ads_undergarments.csv"
+  use_sample: false
+  sample_n_rows: 5000
+
+analysis:
+  roas_drop_window_days: 7
+  baseline_window_days: 7
+  min_impressions: 1000
+
+validation:
+  roas_drop_pct_threshold: 0.10
+  ctr_drop_pct_threshold: 0.05
+  spend_change_pct_threshold: 0.10
+  confidence_min: 0.6
+
+creative:
+  low_ctr_quantile: 0.25
+  max_creatives_per_audience: 5
+  num_ideas_per_creative: 3
+
+logging:
+  json_log_path: "logs/run_log.jsonl"
+
+memory:
+  enabled: true
+  path: "logs/insight_memory.json"
+  max_runs: 20

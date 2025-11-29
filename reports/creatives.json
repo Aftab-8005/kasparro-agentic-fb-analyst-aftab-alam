@@ -1,0 +1,365 @@
+{
+  "query": "Analyze ROAS drop in last 7 days",
+  "ideas": [
+    {
+      "campaign_name": "WOMEN Cotton Classics",
+      "adset_name": "Adset-1 Retarget",
+      "audience_type": "Broad",
+      "platform": "Instagram",
+      "country": "US",
+      "current_ctr": 0.003,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Broad deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: comfy: women bras. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colors Drop",
+      "adset_name": "Adset-3 Broad",
+      "audience_type": "Broad",
+      "platform": "Instagram",
+      "country": "US",
+      "current_ctr": 0.0031,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Broad deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: All\u2011day comfort zero. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colors Drop",
+      "adset_name": "Adset-4 Broad",
+      "audience_type": "Broad",
+      "platform": "Facebook",
+      "country": "IN",
+      "current_ctr": 0.0035,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Broad deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: comfy: athletic briefs. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "women cotton classics",
+      "adset_name": "Adset-4 LAL2",
+      "audience_type": "Broad",
+      "platform": "Instagram",
+      "country": "US",
+      "current_ctr": 0.0036,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Broad deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: Seamless confidence every. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "women seamless everyday",
+      "adset_name": "Adset-2 Broad",
+      "audience_type": "Broad",
+      "platform": "Instagram",
+      "country": "IN",
+      "current_ctr": 0.0036,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Broad deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: Seamless confidence every. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "men bold colors drop",
+      "adset_name": "Adset-1 Broad",
+      "audience_type": "Lookalike",
+      "platform": "Facebook",
+      "country": "US",
+      "current_ctr": 0.0037,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Lookalike deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: Ultra\u2011soft waistband marks. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "women seamless everyday",
+      "adset_name": "Adset-2 Broad",
+      "audience_type": "Lookalike",
+      "platform": "Instagram",
+      "country": "US",
+      "current_ctr": 0.0045,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Lookalike deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: Seamless confidence every. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "Women  |  Studio  Sports",
+      "adset_name": "Adset-2 Broad",
+      "audience_type": "Lookalike",
+      "platform": "Facebook",
+      "country": "IN",
+      "current_ctr": 0.0047,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Lookalike deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: Confidence starts inside. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "women summer invisible",
+      "adset_name": "Adset-5 LAL1",
+      "audience_type": "Lookalike",
+      "platform": "Facebook",
+      "country": "IN",
+      "current_ctr": 0.0048,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Lookalike deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: Seamless confidence every. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Seamless  Everyday",
+      "adset_name": "Adset-2 Broad",
+      "audience_type": "Lookalike",
+      "platform": "Instagram",
+      "country": "UK",
+      "current_ctr": 0.005,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Lookalike deserve all-day fit, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your fit today.",
+        "Fit that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: Wire\u2011free ease cloud\u2011soft. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "Men_Bold_Colors_Drop",
+      "adset_name": "Adset-5 LAL2",
+      "audience_type": "Retargeting",
+      "platform": "Instagram",
+      "country": "US",
+      "current_ctr": 0.0043,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Retargeting deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: 3\u2011pack deal ends. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Seamless Everyday",
+      "adset_name": "Adset-5 LAL1",
+      "audience_type": "Retargeting",
+      "platform": "Instagram",
+      "country": "UK",
+      "current_ctr": 0.005,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Retargeting deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: Push comfort wires. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "Men_Bold_Colors_Drop",
+      "adset_name": "Adset-5 LAL2",
+      "audience_type": "Retargeting",
+      "platform": "Instagram",
+      "country": "IN",
+      "current_ctr": 0.0051,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Retargeting deserve all-day breathability, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your breathability today.",
+        "Breathability that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: Doctors recommend breathable. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "Women Summer Invisible",
+      "adset_name": "Adset-3 ATC",
+      "audience_type": "Retargeting",
+      "platform": "Facebook",
+      "country": "IN",
+      "current_ctr": 0.0052,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Retargeting deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: Invisible under tees. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Seamless Everyday",
+      "adset_name": "Adset-4 WC",
+      "audience_type": "Retargeting",
+      "platform": "Instagram",
+      "country": "IN",
+      "current_ctr": 0.0052,
+      "problem_statement": "CTR is in the lowest quartile for this audience. Creative likely fails to deliver a sharp hook or a clear benefit early enough.",
+      "new_headlines": [
+        "Retargeting deserve all-day comfort, not compromises.",
+        "Stop settling for scratchy underwear \u2014 upgrade your comfort today.",
+        "Comfort that actually lasts through your busiest days."
+      ],
+      "new_primary_texts": [
+        "Your current ads mention: Push comfort wires. Turn that into a clear promise: show how it feels in real life (gym, office, travel).",
+        "Test a problem\u2192solution variant: call out chafing, ride-up or sweat in the opening line, then position your product as the fix.",
+        "Simplify the copy: one core benefit per creative, with a clear hook in the first 2 seconds."
+      ],
+      "new_ctas": [
+        "Shop Comfort Now",
+        "Upgrade Your Top Drawer",
+        "Try The Difference Today"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{"timestamp": "2025-11-29T19:46:22.668262", "event": "start_run", "payload": {"query": "Analyze the ROAS drop in the last 7 days"}}
+{"timestamp": "2025-11-29T19:46:22.752322", "event": "data_loaded", "payload": {"rows": 4500}}
+{"timestamp": "2025-11-29T19:46:22.772942", "event": "roas_summary", "payload": {"baseline_roas": 7.964285714285714, "recent_roas": 7.872521489971347, "pct_change": -0.01152196538476363, "baseline_date_range": "2025-03-18 to 2025-03-24", "recent_date_range": "2025-03-25 to 2025-03-31"}}
+{"timestamp": "2025-11-29T19:46:22.780568", "event": "plan_created", "payload": {"subtasks": ["load_data", "generate_hypotheses", "validate_hypotheses", "generate_creatives"]}}
+{"timestamp": "2025-11-29T19:46:22.806775", "event": "aggregates_ready", "payload": {"baseline": 155, "recent": 146}}
+{"timestamp": "2025-11-29T19:46:22.806775", "event": "hypotheses_generated", "payload": {"count": 1}}
+{"timestamp": "2025-11-29T19:46:22.806775", "event": "insights_validated", "payload": {"count": 1}}
+{"timestamp": "2025-11-29T19:46:22.822895", "event": "creative_ideas", "payload": {"count": 15}}
+{"timestamp": "2025-11-29T19:46:22.825648", "event": "reports_written", "payload": {}}
+{"timestamp": "2025-11-29T19:46:22.825648", "event": "memory_updated", "payload": {"entries": 1}}
+{"timestamp": "2025-11-29T19:46:22.830319", "event": "end_run", "payload": {}}
+{"timestamp": "2025-11-29T20:17:25.228251", "event": "start_run", "payload": {"query": "Analyze ROAS drop"}}
+{"timestamp": "2025-11-29T20:17:25.248371", "event": "data_loaded", "payload": {"rows": 4500}}
+{"timestamp": "2025-11-29T20:17:25.266433", "event": "roas_summary", "payload": {"baseline_roas": 7.964285714285714, "recent_roas": 7.872521489971347, "pct_change": -0.01152196538476363, "baseline_date_range": "2025-03-18 to 2025-03-24", "recent_date_range": "2025-03-25 to 2025-03-31"}}
+{"timestamp": "2025-11-29T20:17:25.266433", "event": "plan_created", "payload": {"subtasks": ["load_data", "generate_hypotheses", "validate_hypotheses", "generate_creatives"]}}
+{"timestamp": "2025-11-29T20:17:25.281502", "event": "aggregates_ready", "payload": {"baseline": 155, "recent": 146}}
+{"timestamp": "2025-11-29T20:17:25.281502", "event": "hypotheses_generated", "payload": {"count": 1}}
+{"timestamp": "2025-11-29T20:17:25.281502", "event": "insights_validated", "payload": {"count": 1}}
+{"timestamp": "2025-11-29T20:17:25.289827", "event": "creative_ideas", "payload": {"count": 15}}
+{"timestamp": "2025-11-29T20:17:25.293424", "event": "reports_written", "payload": {}}
+{"timestamp": "2025-11-29T20:17:25.293424", "event": "memory_updated", "payload": {"entries": 2}}
+{"timestamp": "2025-11-29T20:17:25.294781", "event": "end_run", "payload": {}}
+{"timestamp": "2025-11-29T20:17:51.212804", "event": "start_run", "payload": {"query": "Analyze ROAS drop"}}
+{"timestamp": "2025-11-29T20:17:51.230695", "event": "data_loaded", "payload": {"rows": 4500}}
+{"timestamp": "2025-11-29T20:17:51.248452", "event": "roas_summary", "payload": {"baseline_roas": 7.964285714285714, "recent_roas": 7.872521489971347, "pct_change": -0.01152196538476363, "baseline_date_range": "2025-03-18 to 2025-03-24", "recent_date_range": "2025-03-25 to 2025-03-31"}}
+{"timestamp": "2025-11-29T20:17:51.249433", "event": "plan_created", "payload": {"subtasks": ["load_data", "generate_hypotheses", "validate_hypotheses", "generate_creatives"]}}
+{"timestamp": "2025-11-29T20:17:51.266339", "event": "aggregates_ready", "payload": {"baseline": 155, "recent": 146}}
+{"timestamp": "2025-11-29T20:17:51.267336", "event": "hypotheses_generated", "payload": {"count": 1}}
+{"timestamp": "2025-11-29T20:17:51.268268", "event": "insights_validated", "payload": {"count": 1}}
+{"timestamp": "2025-11-29T20:17:51.273484", "event": "creative_ideas", "payload": {"count": 15}}
+{"timestamp": "2025-11-29T20:17:51.276482", "event": "reports_written", "payload": {}}
+{"timestamp": "2025-11-29T20:17:51.278260", "event": "memory_updated", "payload": {"entries": 3}}
+{"timestamp": "2025-11-29T20:17:51.278260", "event": "end_run", "payload": {}}
+{"timestamp": "2025-11-29T20:19:53.496729", "event": "start_run", "payload": {"query": "Analyze ROAS drop"}}
+{"timestamp": "2025-11-29T20:19:53.515127", "event": "data_loaded", "payload": {"rows": 4500}}
+{"timestamp": "2025-11-29T20:19:53.535976", "event": "roas_summary", "payload": {"baseline_roas": 7.964285714285714, "recent_roas": 7.872521489971347, "pct_change": -0.01152196538476363, "baseline_date_range": "2025-03-18 to 2025-03-24", "recent_date_range": "2025-03-25 to 2025-03-31"}}
+{"timestamp": "2025-11-29T20:19:53.536926", "event": "plan_created", "payload": {"subtasks": ["load_data", "generate_hypotheses", "validate_hypotheses", "generate_creatives"]}}
+{"timestamp": "2025-11-29T20:19:53.557794", "event": "aggregates_ready", "payload": {"baseline": 155, "recent": 146}}
+{"timestamp": "2025-11-29T20:19:53.560038", "event": "hypotheses_generated", "payload": {"count": 1}}
+{"timestamp": "2025-11-29T20:19:53.560555", "event": "insights_validated", "payload": {"count": 1}}
+{"timestamp": "2025-11-29T20:19:53.565967", "event": "creative_ideas", "payload": {"count": 15}}
+{"timestamp": "2025-11-29T20:19:53.569322", "event": "reports_written", "payload": {}}
+{"timestamp": "2025-11-29T20:19:53.570370", "event": "memory_updated", "payload": {"entries": 4}}
+{"timestamp": "2025-11-29T20:19:53.570370", "event": "end_run", "payload": {}}
+{"timestamp": "2025-11-29T20:26:11.024747", "event": "start_run", "payload": {"query": "Analyze ROAS drop in last 7 days"}}
+{"timestamp": "2025-11-29T20:26:11.041528", "event": "data_loaded", "payload": {"rows": 4500}}
+{"timestamp": "2025-11-29T20:26:11.058666", "event": "roas_summary", "payload": {"baseline_roas": 7.964285714285714, "recent_roas": 7.872521489971347, "pct_change": -0.01152196538476363, "baseline_date_range": "2025-03-18 to 2025-03-24", "recent_date_range": "2025-03-25 to 2025-03-31"}}
+{"timestamp": "2025-11-29T20:26:11.058666", "event": "plan_created", "payload": {"subtasks": ["load_data", "generate_hypotheses", "validate_hypotheses", "generate_creatives"]}}
+{"timestamp": "2025-11-29T20:26:11.076728", "event": "aggregates_ready", "payload": {"baseline": 155, "recent": 146}}
+{"timestamp": "2025-11-29T20:26:11.077726", "event": "hypotheses_generated", "payload": {"count": 1}}
+{"timestamp": "2025-11-29T20:26:11.077726", "event": "insights_validated", "payload": {"count": 1}}
+{"timestamp": "2025-11-29T20:26:11.084523", "event": "creative_ideas", "payload": {"count": 15}}
+{"timestamp": "2025-11-29T20:26:11.088429", "event": "reports_written", "payload": {}}
+{"timestamp": "2025-11-29T20:26:11.089417", "event": "memory_updated", "payload": {"entries": 5}}
+{"timestamp": "2025-11-29T20:26:11.089417", "event": "end_run", "payload": {}}
